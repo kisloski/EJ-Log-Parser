@@ -1,0 +1,20 @@
+c:\users\piotrek\documents\visual studio 2015\Projects\EJ Log Parser\EJ Log Parser\bin\Debug\EJ Log Parser.exe.config
+C:\Users\Piotrek\documents\visual studio 2015\Projects\EJ Log Parser\EJ Log Parser\obj\Debug\EJ Log Parser.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\documents\visual studio 2015\Projects\EJ Log Parser\EJ Log Parser\obj\Debug\EJ_Log_Parser.MainForm.resources
+C:\Users\Piotrek\documents\visual studio 2015\Projects\EJ Log Parser\EJ Log Parser\obj\Debug\EJ_Log_Parser.Properties.Resources.resources
+C:\Users\Piotrek\documents\visual studio 2015\Projects\EJ Log Parser\EJ Log Parser\obj\Debug\EJ Log Parser.csproj.GenerateResource.Cache
+C:\Users\Piotrek\documents\visual studio 2015\Projects\EJ Log Parser\EJ Log Parser\bin\Debug\EJ Log Parser.exe
+C:\Users\Piotrek\documents\visual studio 2015\Projects\EJ Log Parser\EJ Log Parser\bin\Debug\EJ Log Parser.pdb
+C:\Users\Piotrek\documents\visual studio 2015\Projects\EJ Log Parser\EJ Log Parser\obj\Debug\EJ Log Parser.exe
+C:\Users\Piotrek\documents\visual studio 2015\Projects\EJ Log Parser\EJ Log Parser\obj\Debug\EJ Log Parser.pdb
+C:\Users\Piotrek\documents\visual studio 2015\Projects\EJ Log Parser\EJ Log Parser\obj\Debug\EJ_Log_Parser.LogView.resources
+C:\Users\Piotr\Desktop\EJ Log Parser\EJ Log Parser\bin\Debug\EJ Log Parser.exe.config
+C:\Users\Piotr\Desktop\EJ Log Parser\EJ Log Parser\obj\Debug\EJ Log Parser.exe
+C:\Users\Piotr\Desktop\EJ Log Parser\EJ Log Parser\obj\Debug\EJ Log Parser.pdb
+C:\Users\Piotr\Desktop\EJ Log Parser\EJ Log Parser\bin\Debug\EJ Log Parser.exe
+C:\Users\Piotr\Desktop\EJ Log Parser\EJ Log Parser\bin\Debug\EJ Log Parser.pdb
+C:\Users\Piotr\Desktop\EJ Log Parser\EJ Log Parser\obj\Debug\EJ Log Parser.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\EJ Log Parser\EJ Log Parser\obj\Debug\EJ_Log_Parser.LogView.resources
+C:\Users\Piotr\Desktop\EJ Log Parser\EJ Log Parser\obj\Debug\EJ_Log_Parser.MainForm.resources
+C:\Users\Piotr\Desktop\EJ Log Parser\EJ Log Parser\obj\Debug\EJ_Log_Parser.Properties.Resources.resources
+C:\Users\Piotr\Desktop\EJ Log Parser\EJ Log Parser\obj\Debug\EJ Log Parser.csproj.GenerateResource.Cache

@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EJ_Log_Parser
+{
+    public class logfile
+    {
+        public string filename { get; set; }
+        public byte[] bytes { get; set; }
+        public DateTime createdate { get; set; }
+    }
+}
